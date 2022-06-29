@@ -1,3 +1,7 @@
 keep going,  never giveup
 Nothing is impossible if you pour you heart into it
-Creating a new branch is very quick & very simple.
+<<<<<<< HEAD
+Creating a new branch is very quick and very simple.
+=======
+Creating a new branch is very quick and very simple.
+>>>>>>> feature1
